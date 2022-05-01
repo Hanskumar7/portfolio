@@ -1,0 +1,81 @@
+*.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+   
+
+}
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+
+}
+nav ul li a:hover{
+    color: red;
+}
+.logoimage{
+    width: 150px;
+   
+}
+.details h1{
+    color: rgb(46, 174, 212);
+    font: italic small-caps bold 16px/2 cursive;
+    font-size: 50px;
+}
+.details h1:hover{
+    color: red;
+}
+.details h2{
+    color:  rgb(46, 174, 212);
+    font: italic small-caps bold 16px/2 cursive;
+}
+.details h2:hover{
+    color: red;
+}
+.details h3{
+    font: italic small-caps bold 16px/2 cursive;
+    color:  rgb(46, 174, 212);
+}
+.details h3:hover{
+    color: red;
+}
+.details h4{
+    font: italic small-caps bold 16px/2 cursive;
+    color:  rgb(46, 174, 212);
+}
+.details h4:hover{
+    color: red;
+}
+.paragraph1{
+    color: white;
+    font-size:large;
+    font: italic small-caps bold 16px/2 cursive;
+}
+.paragraph2{
+    color: white;
+    font-size: medium;
+    font: italic small-caps bold 16px/2 cursive;
+}
+.paragraph3{
+    font-size: large;
+    font: italic small-caps bold 16px/2 cursive;
+}
+.paragraph4{
+    font-size: large;
+    font: italic small-caps bold 16px/2 cursive;
+}
